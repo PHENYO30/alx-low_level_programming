@@ -1,1 +1,1 @@
-0x0B. C - malloc, free
+C - argc, argv
